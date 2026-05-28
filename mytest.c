@@ -6,5 +6,7 @@ int add(int a,int b)
 int main()
 {
     int a;
+    int b;
+    int c;
     return 0;
 }
