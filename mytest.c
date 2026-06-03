@@ -1,4 +1,9 @@
 #include <stdio.h>
+#include "mytest.h"
+int multiple(int a, int b)
+{
+    return a*b;
+}
 int add(int a,int b)
 {
     int c;
